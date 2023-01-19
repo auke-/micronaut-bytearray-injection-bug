@@ -1,4 +1,4 @@
-package io.codegen;
+package io.codegen.downstream;
 
 import io.micronaut.runtime.Micronaut;
 
